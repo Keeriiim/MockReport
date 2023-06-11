@@ -1,0 +1,44 @@
+{
+  "coord": {
+    "lon": 11.97,
+    "lat": 57.71
+  },
+  "weather": [
+    {
+      "id": 804,
+      "main": "Clouds",
+      "description": "overcast clouds",
+      "icon": "04d"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 20.59,
+    "feels_like": 20.13,
+    "temp_min": 18.89,
+    "temp_max": 21.74,
+    "pressure": 1013,
+    "humidity": 67
+  },
+  "visibility": 10000,
+  "wind": {
+    "speed": 5.14,
+    "deg": 210,
+    "gust": 7.2
+  },
+  "clouds": {
+    "all": 90
+  },
+  "dt": 1599478913,
+  "sys": {
+    "type": 1,
+    "id": 1752,
+    "country": "SE",
+    "sunrise": 1599457990,
+    "sunset": 1599510755
+  },
+  "timezone": 7200,
+  "id": 2711537,
+  "name": "Gothenburg",
+  "cod": 200
+}
